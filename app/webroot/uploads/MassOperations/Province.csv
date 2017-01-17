@@ -1,0 +1,15 @@
+Province.id,Province.name,Province.continent_id,Province.continent_code,Province.continent_name,Province.country_id,Province.country_code,Province.country_name,Province.description,Province.active,Province.wtb_status,Province.status,Province.top_province,Province.is_update,Province.created_by,Province.modified,Province.created
+NULL,Ba,5,OC,Oceania,75,FJ,Fiji,Ba,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Bua,5,OC,Oceania,75,FJ,Fiji,Bua,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Cakaudrove,5,OC,Oceania,75,FJ,Fiji,Cakaudrove,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Kadavu,5,OC,Oceania,75,FJ,Fiji,Kadavu,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Lau,5,OC,Oceania,75,FJ,Fiji,Lau,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Lomaiviti,5,OC,Oceania,75,FJ,Fiji,Lomaiviti,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Macuata,5,OC,Oceania,75,FJ,Fiji,Macuata,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Nadroga-Navosa,5,OC,Oceania,75,FJ,Fiji,Nadroga-Navosa,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Naitasiri,5,OC,Oceania,75,FJ,Fiji,Naitasiri,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Namosi,5,OC,Oceania,75,FJ,Fiji,Namosi,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Ra,5,OC,Oceania,75,FJ,Fiji,Ra,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Rewa,5,OC,Oceania,75,FJ,Fiji,Rewa,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Serua,5,OC,Oceania,75,FJ,Fiji,Serua,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00
+NULL,Tailevu,5,OC,Oceania,75,FJ,Fiji,Tailevu,TRUE,1,1,FALSE,Y,169,0000-00-00 00:00:00,0000-00-00 00:00:00

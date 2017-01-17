@@ -1,0 +1,12 @@
+id,name,city_id,city_name,country_id,country_name,continent_id,continent_name,description,active,top_neighborhood,status,wtb_status,is_update,province_id,province_name,approved_by,approved_date,created_by,created
+NULL,Fushimi,8136,Kyoto,111,Japan,2,Asia,Fushimi,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Higashiyama,8136,Kyoto,111,Japan,2,Asia,Higashiyama,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Kamigyo,8136,Kyoto,111,Japan,2,Asia,Kamigyo,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Kita,8136,Kyoto,111,Japan,2,Asia,Kita,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Minami,8136,Kyoto,111,Japan,2,Asia,Minami,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Nakagyo,8136,Kyoto,111,Japan,2,Asia,Nakagyo,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Nishikyo,8136,Kyoto,111,Japan,2,Asia,Nishikyo,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Sakyo,8136,Kyoto,111,Japan,2,Asia,Sakyo,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Shimogyo,8136,Kyoto,111,Japan,2,Asia,Shimogyo,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Ukyo,8136,Kyoto,111,Japan,2,Asia,Ukyo,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Yamashina,8136,Kyoto,111,Japan,2,Asia,Yamashina,TRUE,FALSE,1,1,Y,164,Kyoto,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00

@@ -1,0 +1,14 @@
+id,area_name,suburb_id,suburb_name,city_id,city_name,country_id,country_name,continent_id,continent_name,area_description,area_active,top_area,area_status,wtb_status,is_update,province_id,province_name,approved_by,approved_date,created_by,created
+NULL,Cam Chau,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam Chau,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cam Ha,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam Ha,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cam Nam,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam Nam,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Son Phong,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Son Phong,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cam Thanh,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam Thanh,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Tan An,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Tan An,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Minh An,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Minh An,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Hoi An Ancient Town,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Hoi An Ancient Town,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cam An,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam An,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cam Pho,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam Pho,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cua Dai,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cua Dai,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Thanh Ha,794,Central Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Thanh Ha,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Cam Kim,795,Greater Hoi An,6791,Hoi An,245,Vietnam,2,Asia,Cam Kim,TRUE,FALSE,1,1,Y,857,Quang Nam,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
